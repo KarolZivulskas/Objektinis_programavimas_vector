@@ -116,7 +116,7 @@ void pop_back();
 
 Pašalinamas paskutinis konteinerio elementas, efektyviai sumažinant konteinerio dydį vienu. Pašalintas elementas yra sunaikinamas.
 
-### Test case
+### Test
 
 ```cpp
 Vector<int> array;
